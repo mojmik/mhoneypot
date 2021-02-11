@@ -1,0 +1,8 @@
+'name of the task running mhoneypot- choose whatever name2 
+mtaskname=mHoneyTask
+'main program path
+mprgpath=c:\mik\moheypot-release\
+'path of honeypot files
+localpath=c:\mik\mh\
+'action to be taken in case of ransomware alert
+maction=c:\mik\mh\action.bat

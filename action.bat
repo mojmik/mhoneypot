@@ -1,0 +1,1 @@
+echo neco >> c:\it\mfilewarden.txt

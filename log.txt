@@ -1,0 +1,18 @@
+---    
+11.02.2021 16:16:03,19 project ransomware honeypot 
+c:\mik\mh\src\nemenit.txt POZOR zmena   
+c:\mik\mh\src\nemenit.doc zadna zmena   
+c:\mik\mh\src\nemenit.docx zadna zmena   
+c:\mik\mh\src\nemenit.jpg zadna zmena   
+c:\mik\mh\src\nemenit.png zadna zmena   
+c:\mik\mh\src\nemenit.xls zadna zmena   
+c:\mik\mh\src\nemenit.xlsx zadna zmena   
+---    
+11.02.2021 16:18:39,52 project ransomware honeypot 
+c:\mik\mh\src\nemenit.txt POZOR zmena   
+c:\mik\mh\src\nemenit.doc zadna zmena   
+c:\mik\mh\src\nemenit.docx zadna zmena   
+c:\mik\mh\src\nemenit.jpg zadna zmena   
+c:\mik\mh\src\nemenit.png zadna zmena   
+c:\mik\mh\src\nemenit.xls zadna zmena   
+c:\mik\mh\src\nemenit.xlsx zadna zmena   
