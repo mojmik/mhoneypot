@@ -1,4 +1,4 @@
 - Prepare desired action - file run if a change in a file is detected. You can use prepared mshutdown.bat for computer shutdown or whatever. 
+- For multiple installation set different task names and folders. Use honeypot easily reached in the file system (like c:\a\)
 - Program checks for changes of files in chosen folder every 30 minutes.
 - install with install.bat
-
